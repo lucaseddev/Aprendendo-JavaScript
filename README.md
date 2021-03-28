@@ -21,5 +21,5 @@ Links importantes para iniciantes no javascript.
 
 [JavaScript for cats](http://jsforcats.com/) - Um guia básico descontraído introduzindo o javascript.
 
-[Guia MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide) - Guia completo pela mozilla developers
+[Guia MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide) - Guia completo pela mozilla developers network.
 
